@@ -1,0 +1,105 @@
+.icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  background-color: black;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat:no-repeat ;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-position: center ;
+  -webkit-mask-position: center;
+}
+.icon-achievments {
+    mask-image: url('../icon/achievments.svg');
+    -webkit-mask-image: url('../icon/achievments.svg');
+}
+.icon-test {
+    mask-image: url('../icon/test.svg');
+    -webkit-mask-image: url('../icon/test.svg');
+}
+
+.icon-settings {
+    mask-image: url('../icon/settings.svg');
+    -webkit-mask-image: url('../icon/settings.svg');
+}
+
+.icon-payment {
+    mask-image: url('../icon/Tolov\ tarixi.svg');
+    -webkit-mask-image: url('../icon/Tolov\ tarixi.svg');
+}
+.icon-logout{
+    
+    mask-image: url('../icon/logout.svg');
+    -webkit-mask-image: url('../icon/logout.svg');
+}
+.icon-vector{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    mask-image: url('../icon/Frame.svg');
+    -webkit-mask-image: url('../icon/Frame.svg');
+}
+.icon-eyes{
+    width: 24px;
+    height: 24px;
+    mask-image: url('../icon/eyes.svg');
+    -webkit-mask-image: url('../icon//eyes.svg');
+}
+
+.icon-eyesclose{
+    background-color: black;
+    color: black;
+    width: 19px;
+    height: 11px;
+    mask-image: url('../icon/eyesclose.svg');
+    -webkit-mask-image: url('../icon//eyesclose.svg');
+  display: inline-block;
+  cursor: pointer;
+  background-color: black;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat:no-repeat ;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-position: center ;
+  -webkit-mask-position: center;
+}
+.q{
+    mask-image: url('../icon/q.svg');
+    -webkit-mask-image: url('../icon/q.svg');
+  display: inline-block;
+  width: 12px;
+  height: 7px;
+  background-color: black;
+  cursor: pointer;  
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat:no-repeat ;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-position: center ;
+  -webkit-mask-position: center;
+}
+.icon-iii{
+    width: 22px;
+    height: 22px;
+    mask-image: url('../icon/iii.svg');
+    -webkit-mask-image: url('../icon/iii.svg');
+}
+.icon-facebook{
+    
+background: #A0A094;    
+    mask-image: url('../icon/facebook.svg');
+    -webkit-mask-image: url('../icon/facebook.svg');
+}
+.icon-google{
+    
+background: #A0A094;
+    mask-image: url('../icon/google.svg');
+    -webkit-mask-image: url('../icon/google.svg');
+}
+.icon-apple{
+background: #A0A094;
+    mask-image: url('../icon/apple.svg');
+    -webkit-mask-image: url('../icon/apple.svg');
+}
